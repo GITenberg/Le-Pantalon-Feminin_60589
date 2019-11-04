@@ -1,0 +1,46 @@
+_repo: Le-Pantalon-Feminin_60589
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Silvestre, Armand
+    aliases:
+    - Sylvestre, Paul Armand
+    - Silvestre, Paul-Armand
+    - Silvestre, A. (Armand)
+    - Sylvestre, Armand
+    birthdate: 1837
+    deathdate: 1901
+    gutenberg_agent_id: '4215'
+    url: http://www.gutenberg.org/2009/agents/4215
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Paul_Armand_Silvestre
+    - https://fr.wikipedia.org/wiki/Armand_Silvestre
+creator:
+  author:
+    agent_name: Dufay, Pierre
+    birthdate: 1864
+    deathdate: 1942
+    gutenberg_agent_id: '51039'
+    url: http://www.gutenberg.org/2009/agents/51039
+description: ''
+gutenberg_bookshelf:
+- FR Peuples et Sociétés
+- FR Séduction et libertinage
+- FR Nouveautés
+- FR Humour
+gutenberg_issued: '2019-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60589'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Clothing and dress'
+- !lcsh 'Underwear -- History'
+- !lcsh 'Lingerie -- History'
+- !lcc 'GT'
+- GITenberg
+title: Le Pantalon Féminin
+url: http://www.gutenberg.org/ebooks/60589
